@@ -1,0 +1,12 @@
+#!/bin/bash
+#https://projecteuler.net/problem=2I=0fib1=1fib2=1fib3=0
+
+until [ $fib3 -ge 4000000 ]; do
+fib3=$(($fib1 + $fib2))
+if [[ $fib3 -lt 4000000 && $(($fib3 % 2)) -eq 0 ]]; then
+I=$(($I + $fib3)); fi
+fib1=$fib2
+fib2=$fib3
+done
+
+echo $I
