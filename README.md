@@ -1,5 +1,4 @@
     ╔═╗┬─┐┌─┐ ┬┌─┐┌─┐┌┬┐  ┌─┐┬ ┬╦  ╔═╗┬─┐  ┬┌┐┌  ╔╗ ┌─┐╔═╗┬ ┬
     ╠═╝├┬┘│ │ │├┤ │   │   ├┤ │ │║  ║╣ ├┬┘  ││││  ╠╩╗├─┤╚═╗├─┤
     ╩  ┴└─└─┘└┘└─┘└─┘ ┴   └─┘└─┘╩═╝╚═╝┴└─  ┴┘└┘  ╚═╝┴ ┴╚═╝┴ ┴
-I want to learn GNU/Linux and I like math more than my school does, this was the result. Feel free to critique as you see fit.
-
+I wanted to learn GNU/Linux and I like math, this was the result. Feel free to message me with suggestions and questions.
