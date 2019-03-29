@@ -1,5 +1,5 @@
 #!/bin/bash
-#https://projecteuler.net/problem=2I=0fib1=1fib2=1fib3=0
+#https://projecteuler.net/problem=2
 
 fib1=1
 fib2=1
