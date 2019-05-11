@@ -1,0 +1,14 @@
+#!/bin/bash
+#https://projecteuler.net/problem=3
+
+P=600851475143
+I=1
+
+until [ $I -ge $P ]; do
+    I=$((I+1))
+    while [ $(($P % $I)) -eq 0 ]; do
+        P=$(($P / $I))
+    done
+done
+
+echo $I
